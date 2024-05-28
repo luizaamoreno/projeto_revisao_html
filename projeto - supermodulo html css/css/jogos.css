@@ -1,0 +1,35 @@
+
+
+.jogos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.jogo{
+    width: 20rem;
+    height: 30rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #000814;
+    border-radius: 20px;
+    padding: 2rem;
+    gap: 1rem;
+}
+
+
+.img_jogo1{
+    width: 15vw;
+}
+
+.img_jogo2{
+    width: 15vw;
+}
+
+.img_jogo3{
+    width: 15vw;
+}
